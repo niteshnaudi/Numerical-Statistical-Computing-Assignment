@@ -70,4 +70,4 @@ int main()
   fx=yarr[0]+p*d0y[0]+(p*(p-1)*d1y[0])/2+(p*(p-1)*(p-2)*d2y[0])/6 + (p*(p-1)*(p-2)*(p-3)*d3y[0])/24;
   printf(" \nvalue of y at x(0.5)= %.6lf",fx);
     return 0;
-}
+}// update

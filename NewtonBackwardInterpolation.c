@@ -54,4 +54,4 @@ int main()
     printf("Value at x = %.2f is %.4f\n", x, fx);
 
     return 0;
-}
+}// update

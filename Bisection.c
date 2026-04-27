@@ -45,4 +45,4 @@ int main()
 
     printf("Root = %.6lf", c);
     return 0;
-}
+}// update

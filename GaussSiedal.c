@@ -29,4 +29,4 @@ printf ("value of y= %.6lf\n",y);
 printf ("value of z= %.6lf\n",z);
 printf("value of w= %.6lf\n",w);
     return 0;
-}
+}// update

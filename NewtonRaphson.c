@@ -42,4 +42,4 @@ int main()
 
     printf("root = %.6lf",c);
     return 0;
-}
+}// update
